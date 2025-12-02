@@ -1,4 +1,9 @@
-// Array
+// This file tests the usage of arrays in TypeScript.
+// It includes examples of:
+// - Declaring arrays with specific types (e.g., number[], string[]).
+// - Using readonly arrays to prevent modification.
+// - Using tuples to define arrays with fixed types and lengths.
+// - Demonstrating arrays with the 'any' type.
 
 describe("Array", function () {
   it("Array of Numbers", function () {

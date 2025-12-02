@@ -1,3 +1,7 @@
+// This file tests the usage of basic data types in TypeScript.
+// It includes examples of string, number, and boolean types.
+// The test validates that variables of these types hold the expected values and demonstrates type safety.
+
 // Tipe Data
 describe('Tipe Data Dasar di TypeScript', function () {
   it('Tipe Data String', function () {

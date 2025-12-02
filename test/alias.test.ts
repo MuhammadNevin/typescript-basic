@@ -1,3 +1,8 @@
+// This file tests the usage of TypeScript type aliases.
+// Type aliases are used to define custom types for better code readability and reusability.
+// The test demonstrates creating and using type aliases for objects like Category and Product.
+// It also shows how to access and log the properties of these objects.
+
 import type { Category, Product } from "../src/type-alias";
 describe('Alias Data Types', function () {
   it('Variable with Alias Data Types', function () {

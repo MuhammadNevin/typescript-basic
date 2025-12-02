@@ -1,3 +1,6 @@
+// This file contains a simple test to demonstrate the basic structure of a TypeScript test.
+// It includes a single test case that validates a string variable against an expected value.
+
 // Union Type, sample variable
 describe("Union Type", function () {
   it("Variable with Union Type", function () {

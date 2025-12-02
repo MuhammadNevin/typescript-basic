@@ -1,4 +1,6 @@
-// test for say-hello.ts
+// This file tests the functionality of the 'sayHello' function from say-hello.ts.
+// The test ensures that the function returns the correct greeting message when provided with a name.
+
 import { sayHello } from '../src/say-hello';
 
 describe('sayHello', function () {

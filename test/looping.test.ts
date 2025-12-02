@@ -1,4 +1,9 @@
-// Looping
+// This file tests various looping constructs in TypeScript.
+// It includes examples of:
+// - For loops (standard, for...of, and for...in).
+// - While and do...while loops.
+// - Demonstrating the use of break and continue statements.
+// Each test validates the behavior of the loop and ensures the expected output is achieved.
 
 describe('Looping', function() {
     // for loop all example

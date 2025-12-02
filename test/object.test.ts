@@ -1,3 +1,7 @@
+// This file tests the usage of objects in TypeScript.
+// It demonstrates how to define object types with specific properties and optional fields.
+// The test validates the properties of an object and ensures they match the expected values.
+
 // Object
 describe("Object", function () {
   it("Variable with Object Type", function () {
