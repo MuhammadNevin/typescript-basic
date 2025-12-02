@@ -66,6 +66,22 @@ This project covers the following TypeScript concepts:
    npm test
    ```
 
+## How to Compile and Test
+
+### Compile TypeScript Files
+To compile the TypeScript files into JavaScript, use the following command:
+```bash
+npx tsc
+```
+This will generate the compiled JavaScript files in the `dist/` directory (as specified in the `tsconfig.json`).
+
+### Run a Specific Test File
+To run a specific test file, such as `generic.test.ts`, use the following command:
+```bash
+npm test -- ./test/generic.test.ts
+```
+This will execute only the specified test file.
+
 ## Prerequisites
 
 - Node.js (v14 or higher recommended)
