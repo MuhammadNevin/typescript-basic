@@ -1,0 +1,1 @@
+{"version":3,"file":"seller.d.ts","sourceRoot":"","sources":["../../src/seller.ts"],"names":[],"mappings":"AACA,MAAM,WAAW,MAAM;IACnB,EAAE,EAAE,MAAM,CAAC;IACX,IAAI,EAAE,MAAM,CAAC;IACb,MAAM,EAAE,MAAM,CAAC;IACf,GAAG,CAAC,EAAE,MAAM,CAAC;IACb,QAAQ,CAAC,eAAe,CAAC,EAAE,MAAM,CAAC;IAClC,QAAQ,CAAC,QAAQ,CAAC,EAAE,OAAO,CAAC;CAC/B"}
