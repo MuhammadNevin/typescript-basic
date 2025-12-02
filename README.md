@@ -80,6 +80,16 @@ The goal of this project is to provide a hands-on learning experience for TypeSc
 
 If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request. Contributions are welcome!
 
-## License
+### Credit
 
-This project is licensed under the MIT License. Feel free to use and modify it as you see fit.
+This project is credited to **Eko Kurniawan Khannedy** and the **Programmer Zaman Now** platform for their excellent learning materials. You can connect with them through the following channels:
+
+- **Telegram**: [@khannedy](https://t.me/khannedy)
+- **LinkedIn**: [Programmer Zaman Now](https://www.linkedin.com/company/programmer-zaman-now/)
+- **Facebook**: [fb.com/ProgrammerZamanNow](https://fb.com/ProgrammerZamanNow)
+- **Instagram**: [instagram.com/programmerzamannow](https://instagram.com/programmerzamannow)
+- **YouTube**: [youtube.com/c/ProgrammerZamanNow](https://youtube.com/c/ProgrammerZamanNow)
+- **Telegram Channel**: [t.me/ProgrammerZamanNow](https://t.me/ProgrammerZamanNow)
+- **TikTok**: [tiktok.com/@programmerzamannow](https://tiktok.com/@programmerzamannow)
+- **Email**: echo.khannedy@gmail.com
+
